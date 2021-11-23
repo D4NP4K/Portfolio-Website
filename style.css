@@ -1,5 +1,5 @@
 
-
+/* ----- General Styles -----*/ 
 
 body {
   margin: 0;
@@ -38,6 +38,8 @@ section {
   padding: 0 25%;
   margin: 80px 0;
 }
+
+/*----- Types ----- */
 
 h1, h2, h3 {
   font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
@@ -79,13 +81,10 @@ footer p {
   margin: 0;
 }
 
+/*----- Image Border -----*/
+
 img {
   width: 100%;
   border-radius: 8px;
   border: 1px solid bisque;
-}
-
-.border-top {
-  padding-top: 80px;
-  border-top: 2px solid black;
 }
