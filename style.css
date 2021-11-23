@@ -61,8 +61,8 @@ a {
   text-decoration: none;
 }
 
-a:link {color: cadetblue}
-a:visited {color: cadetblue}
+a:link {color: #33525}
+a:visited {color: #33525}
 a:hover {color: black}
 a:active {color: black}
 a:hover {text-decoration: underline}
